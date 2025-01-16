@@ -1,1 +1,1 @@
-# Build-Java-Project Using Github Actions
+# Build-Java-Project Github Actions
